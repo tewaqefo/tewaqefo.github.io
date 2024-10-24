@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://tewaqefo.github.io/sitemap/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/WAm/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/ecf/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/SeX/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/vJf/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/xqr/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/AEy/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/KXC/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/LOk/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/XkA/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/Fyo/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/xtI/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/Apu/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/iKA/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/OQG/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/fAE/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/bPx/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/ZFT/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/vyh/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/aPW/sitemap_index.tewaqefo
+Sitemap: https://tewaqefo.github.io/lcR/sitemap_index.tewaqefo
